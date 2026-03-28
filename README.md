@@ -116,6 +116,7 @@ Task-Manager/
 │   │   ├── auth.ts       # Auth (login, register, forgot/reset password)
 │   │   └── tasks.ts      # Tasks CRUD
 │   ├── middleware/        # Auth middleware
+│   ├── services/         # Node Mailer
 │   ├── utils/            # Utilidades (JWT)
 │   └── lib/              # Config (Prisma)
 ├── frontend/              # Frontend React
