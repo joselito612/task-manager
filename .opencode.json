@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "engram": {
+      "command": "engram.exe"
+    }
+  }
+}
